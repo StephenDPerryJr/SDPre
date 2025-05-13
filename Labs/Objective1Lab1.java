@@ -1,0 +1,2 @@
+javac Objective1Lab1.java
+java Objective1Lab1
